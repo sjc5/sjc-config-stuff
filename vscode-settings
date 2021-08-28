@@ -1,3 +1,5 @@
+// settings.json
+
 {
   "editor.formatOnSave": true,
   "editor.formatOnType": true,
@@ -13,3 +15,12 @@
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "editor.wordWrap": "on"
 }
+
+// EXTENSIONS
+
+es6-string-html -- Tobermory
+Prettier - Code formatter -- Prettier
+Svelte 3 Snippets -- fivethree
+Svelte for VS Code -- Svelte
+Svelte Intellisense -- ardenivanov
+Tailwind CSS Intellisense -- Brad Cornes
